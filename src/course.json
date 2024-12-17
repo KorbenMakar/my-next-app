@@ -1,0 +1,62 @@
+{
+  "title": "NextJS для початківців - експрес курс",
+  "lessons": [
+    {
+      "name": "nextjs-course-intro",
+      "title": "Вступ до курсу NextJS",
+      "points": ["Для кого цей курс", "Структура курсу та проект", "Програма курсу"]
+    },
+    {
+      "name": "nextjs-start",
+      "title": "Про Next.JS",
+      "points": ["Що таке Next.JS", "Можливості Next.JS", "Відмінність Next.JS та React"]
+    },
+    {
+      "name": "nextjs-components",
+      "title": "Компоненти в Next.JS",
+      "points": ["Види компонентів в Next.JS", "Призначення та обмеження серверних компонентів"]
+    },
+    {
+      "name": "nextjs-styling",
+      "title": "Стилізація в Next.JS",
+      "points": [
+        "Звичайний CSS та CSS модулі",
+        "Опції - scss, tailwind, Css in JS",
+        "Проблеми з css in js"
+      ]
+    },
+
+    {
+      "name": "nextjs-client-routing",
+      "title": "Клієнтський Роутінг в Next.JS",
+      "points": [
+        "Принципи побудови routing в Next.JS",
+        "Як додавати нові сторінки",
+        "Як додавати layout а також робити вкладені роути",
+        "Навіщо потрібні файли loading.tsx та error.tsx"
+      ]
+    },
+
+    {
+      "name": "nextjs-deploy-azure",
+      "title": "Деплоїмо Next.JS в Azure",
+      "points": ["Пререквізити", "Налаштування Azure", "Налаштування проекту"]
+    },
+    {
+      "name": "nextjs-project-struct",
+      "title": "Структура React проекту за 10 хвилин",
+      "points": ["Навіщо нам структура", "Принципи організації"]
+    },
+    {
+      "name": "nextjs-server-api",
+      "title": "API на Next.JS",
+      "points": [
+        "Навіщо нам API",
+        "Як будується раутинг для API",
+        "Як отримати параметри запиту",
+        "Як зробити відповідь",
+        "Та про деякі нюанси використання API в Next.JS"
+      ]
+    }
+  ]
+}
